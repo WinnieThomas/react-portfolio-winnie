@@ -4,6 +4,10 @@ export default function Resume() {
   return (
     <div>
       <h1>Resume</h1>
+      <h3 className="mb-2 pb-2">
+                  <strong>Resume:
+                <a target="_blank" rel="noopener noreferrer" className="tab4" href={process.env.PUBLIC_URL + "/assets/winnie.pdf"}>  My resume</a></strong>
+                </h3>
       <p>
         Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis
         molestie urna. Aliquam semper ultrices varius. Aliquam faucibus sit amet
