@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* @import url('href=https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap'); */
+
+.image-container{
+    height:200px;
+    border-style:solid;
+    border-radius:200px;
+    margin:30px;
+}
+
+h1 , h3{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+
+.title{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:dodgerblue;
+    color:white;
+}
+
+.title a{
+    color:white;
+}
+.abt-card{
+    border-style: solid;
+    margin:100px;
+    border-radius: 1rem;
+    box-shadow:100px;
+}
+
+.abtcard-header{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:50px;
+    text-align: center;
+}
+
+.abtcard-body{
+    font-family: 'Times New Roman', Times, serif;
+    padding:15px;
+}
+.footer-container{
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    background-color: dodgerblue;
+    flex-direction:column;
+}
+.footer-icons a{
+    font-size: 50px;
+    color: rgb(150, 67, 227);
+}
+.footer-address p{
+    margin:0;
+}
+.card-container{
+    display:flex;
+    border:1px solid;
+    border-radius: .25rem;
+}
+.portfolioimg-container img{
+    width:500px;
+    border:1px solid;
+}
