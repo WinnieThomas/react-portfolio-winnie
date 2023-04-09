@@ -1,10 +1,12 @@
 import React from 'react';
+import myImage from'../../assets/Winnie.jpg';
 
 export default function About() {
   return (
-    <div>
-      <h1>About</h1>
-      <p>
+    <div className= 'abt-card'>
+      <div className='abtcard-header'>About</div>
+      <img className='image-container' src={myImage} alt="myimage"/>
+      <p className='abtcard-body'>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
         velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
         ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras

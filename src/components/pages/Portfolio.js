@@ -63,12 +63,12 @@ export default function Portfolio() {
         data.map(({id,image,title,desc,github,link})=>{
           return(
          <div key={id} className='card-container'>
-           <div className='image-container'>
+           <div className='portfolioimg-container'>
             <img src={image} alt={title} />
            </div>
            <h3>title</h3>
            <h4>desc</h4>
-           <div className="portfolio__item-cta">
+           <div className="portfolioitem-cta">
                   <a href={github} className='btn' target='_blank' rel="noopener noreferrer" ><FaGithub />Github</a>
                   <a href={link} className='btn btn-primary' target='_blank' rel="noopener noreferrer"><GrDeploy />Deployed Link</a>
                 </div>
