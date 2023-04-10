@@ -45,28 +45,28 @@ export default function Contact() {
       <h1>Contact Me</h1>
       <div>
       <form className="form">
-        <input
+        <input className='input-form'
           value={email}
           name="email"
           onChange={handleInputChange}
           type="email"
           placeholder="email"
         />
-        <input
+        <input className='input-form'
           value={userName}
           name="userName"
           onChange={handleInputChange}
           type="text"
           placeholder="username"
         />
-        <input
+        <input className='input-form'
           value={message}
           name="message"
           onChange={handleInputChange}
           type="text"
           placeholder="Message"
         />
-        <button type="button" onClick={handleFormSubmit}>Submit</button>
+        <button className='form-button' type="button" onClick={handleFormSubmit}>Submit</button>
       </form>
       {errorMessage && (
         <div>
