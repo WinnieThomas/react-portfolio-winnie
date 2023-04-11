@@ -101,12 +101,15 @@ input{
    box-shadow: 10px 5px 10px 5px;
    margin : 30px;
    padding:150px;
+   background-image: url("./assets/background.jpg");
+   background-size: cover;
 }
 
 .input-form{
     margin:15px;
     border:1px solid;
     display:flex;
+    color:white;
 }
 .form-button{
     font-size:15px;
@@ -132,6 +135,13 @@ input{
     justify-content:center;
     align-items: center;
     margin-bottom:50px;
+    border: 1px solid;
+    box-shadow: 0 0 7px 7px;
+    width:50%;
+    margin-left:300px;
+    background-image: url("./assets/background.jpg");
+    background-size: cover;
+    color:white;
 }
  h4{
    display:flex;
@@ -146,6 +156,11 @@ input{
     margin: 5px;
     border-radius: 4px;
     }
+    .skill{
+        margin:10px;
+        display:flex;
+        flex-wrap: wrap;
+    }
  }
 
  @media(max-width: 694px){
@@ -158,4 +173,5 @@ input{
     .form{
         width:400px;
     }
+    
  }
