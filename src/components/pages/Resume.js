@@ -4,12 +4,12 @@ import CV from '../../assets/winniethomas.pdf';
 export default function Resume() {
   return (
     <div>
-      <h3 className="mb-2 pb-2">
+      <h3 className="resume-container">
                   <strong>Resume:
                 <a target="_blank" rel="noopener noreferrer" className="tab4" href={CV}> Click Here</a></strong>
                 </h3>
+                <h4>Proficiencies</h4>
       <div className='skill'>
-        <h3>Proficiencies</h3>
         <div className='skill-list'>
           <li>HTML</li>
           <li>CSS</li>
