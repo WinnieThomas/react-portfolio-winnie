@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40b50eb0.css",
+    "main.js": "/static/js/main.1122d357.js",
+    "static/media/booksearch2.png": "/static/media/booksearch2.fd59b3a98f0c621dbed8.png",
+    "static/media/Winnie.jpg": "/static/media/Winnie.7db887d6921d7e534e2a.jpg",
+    "static/media/Weather1.png": "/static/media/Weather1.48e6d8bbe9d9cadc27ce.png",
+    "static/media/PWA1.png": "/static/media/PWA1.6f261cac02b975a06c97.png",
+    "static/media/winniethomas.pdf": "/static/media/winniethomas.bb095728fa9e13b8c357.pdf",
+    "static/media/note.png": "/static/media/note.e44c42ccd31290e834b1.png",
+    "static/media/WOW-logo.png": "/static/media/WOW-logo.343f34240e6fecd57f45.png",
+    "static/media/background.jpg": "/static/media/background.bc1fad417de7cbdf4660.jpg",
+    "index.html": "/index.html",
+    "main.40b50eb0.css.map": "/static/css/main.40b50eb0.css.map",
+    "main.1122d357.js.map": "/static/js/main.1122d357.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40b50eb0.css",
+    "static/js/main.1122d357.js"
+  ]
+}
