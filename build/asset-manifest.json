@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.40b50eb0.css",
-    "main.js": "/static/js/main.1122d357.js",
-    "static/media/booksearch2.png": "/static/media/booksearch2.fd59b3a98f0c621dbed8.png",
-    "static/media/Winnie.jpg": "/static/media/Winnie.7db887d6921d7e534e2a.jpg",
-    "static/media/Weather1.png": "/static/media/Weather1.48e6d8bbe9d9cadc27ce.png",
-    "static/media/PWA1.png": "/static/media/PWA1.6f261cac02b975a06c97.png",
-    "static/media/winniethomas.pdf": "/static/media/winniethomas.bb095728fa9e13b8c357.pdf",
-    "static/media/note.png": "/static/media/note.e44c42ccd31290e834b1.png",
-    "static/media/WOW-logo.png": "/static/media/WOW-logo.343f34240e6fecd57f45.png",
-    "static/media/background.jpg": "/static/media/background.bc1fad417de7cbdf4660.jpg",
-    "index.html": "/index.html",
-    "main.40b50eb0.css.map": "/static/css/main.40b50eb0.css.map",
-    "main.1122d357.js.map": "/static/js/main.1122d357.js.map"
+    "main.css": "/react-portfolio-winnie/static/css/main.5df54d1f.css",
+    "main.js": "/react-portfolio-winnie/static/js/main.ebb9f866.js",
+    "static/media/booksearch2.png": "/react-portfolio-winnie/static/media/booksearch2.fd59b3a98f0c621dbed8.png",
+    "static/media/Winnie.jpg": "/react-portfolio-winnie/static/media/Winnie.7db887d6921d7e534e2a.jpg",
+    "static/media/Weather1.png": "/react-portfolio-winnie/static/media/Weather1.48e6d8bbe9d9cadc27ce.png",
+    "static/media/PWA1.png": "/react-portfolio-winnie/static/media/PWA1.6f261cac02b975a06c97.png",
+    "static/media/winniethomas.pdf": "/react-portfolio-winnie/static/media/winniethomas.bb095728fa9e13b8c357.pdf",
+    "static/media/note.png": "/react-portfolio-winnie/static/media/note.e44c42ccd31290e834b1.png",
+    "static/media/WOW-logo.png": "/react-portfolio-winnie/static/media/WOW-logo.343f34240e6fecd57f45.png",
+    "static/media/background.jpg": "/react-portfolio-winnie/static/media/background.bc1fad417de7cbdf4660.jpg",
+    "index.html": "/react-portfolio-winnie/index.html",
+    "main.5df54d1f.css.map": "/react-portfolio-winnie/static/css/main.5df54d1f.css.map",
+    "main.ebb9f866.js.map": "/react-portfolio-winnie/static/js/main.ebb9f866.js.map"
   },
   "entrypoints": [
-    "static/css/main.40b50eb0.css",
-    "static/js/main.1122d357.js"
+    "static/css/main.5df54d1f.css",
+    "static/js/main.ebb9f866.js"
   ]
 }
